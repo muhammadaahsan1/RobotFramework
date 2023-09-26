@@ -1,0 +1,6 @@
+[submodule "RobotDemo"]
+	path = RobotDemo
+	url = https://github.com/robotframework/RobotDemo.git
+[submodule "WebDemo"]
+	path = WebDemo
+	url = https://github.com/robotframework/WebDemo
